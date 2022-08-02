@@ -1,2 +1,3 @@
-###
-i succeeded in git eventually
+#01/08/2022
+Python Exercice
+
